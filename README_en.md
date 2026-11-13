@@ -74,6 +74,12 @@ This is a curated collection of proxy clients, providing clear, professional, an
 - **Clashmi** - Huawei AppGallery
 * **[ClashBox](https://github.com/xiaobaigroup/ClashBox)** - Optimized for HarmonyOS NEXT
 * **[Auto Installer](https://github.com/likuai2010/auto-installer)** - Debugging tool for HarmonyOS
+* **[TunBox](https://github.com/xiaoli8571/TunBox)** - Native HarmonyOS client powered by mihomo, distributed via AppGallery or self-signed HAP
+* **[NekoBox for Harmony](https://github.com/xiaoli8571/NekoBox4Harmony)** - HarmonyOS VPN client powered by an in-process sing-box core (unsigned HAP; build and sign it yourself)
+* **[Karing Harmony](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap)** - Third-party Karing / sing-box port for HarmonyOS (non-official, source not public), with subscription and multi-protocol support
+* **[Hey](https://github.com/popsiclelmlm/Hey)** - Native HarmonyOS client with Xray (primary) and sing-box cores
+* **[Bettbox](https://github.com/htoay/Bettbox)** - Third-party HarmonyOS port of Bettbox
+* **[FlClash](https://github.com/tljk/FlClash-ohos)** - Third-party HarmonyOS port of FlClash, based on the ClashMeta core
 
 ## TV / TV Box (Apple TV & Android TV)
 
