@@ -26,17 +26,24 @@
 | **[Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)**              | ✓      | ✓                                    | ✓      | -       | -                                                                 | [Download](https://github.com/libnyanpasu/clash-nyanpasu/releases)             |
 | **[sparkle](https://github.com/xishang0128/sparkle)**                            | ✓      | ✓                                    | ✓      | -       | -                                                                 | [Download](https://github.com/xishang0128/sparkle/releases)                    |
 | **[v2rayN](https://github.com/2dust/v2rayN)**                                    | ✓      | ✓                                    | ✓      | -       | -                                                                 | [Download](https://github.com/2dust/v2rayN/releases)                           |
-| **[clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)** | -      | -                                    | ✓      | -       | -                                                                 | [Download](https://github.com/nelvko/clash-for-linux-install)                  |
+| **[Throne (NekoRay)](https://github.com/throneproj/Throne)**                     | ✓      | ✓                                    | ✓      | -       | -                                                                 | [Download](https://github.com/throneproj/Throne/releases)                      |
+| **[ClashCTL](https://github.com/nelvko/clashctl)**                               | -      | -                                    | ✓      | -       | -                                                                 | [Download](https://github.com/nelvko/clashctl)                                 |
 | **[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)**      | -      | -                                    | -      | ✓       | -                                                                 | [Download](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)          |
 | **[v2rayNG](https://github.com/2dust/v2rayNG)**                                  | -      | -                                    | -      | ✓       | -                                                                 | [Download](https://github.com/2dust/v2rayNG/releases)                          |
 | **[surfboard](https://github.com/getsurfboard/surfboard)**                       | -      | -                                    | -      | ✓       | -                                                                 | [Download](https://github.com/getsurfboard/surfboard/releases)                 |
+| **[Husi](https://github.com/xchacha20-poly1305/husi)**                           | ✓      | ✓                                    | ✓      | ✓       | -                                                                 | [Download](https://github.com/xchacha20-poly1305/husi/releases)                 |
+| **[Exclave](https://github.com/ExclaveNetwork/Exclave)**                         | -      | -                                    | -      | ✓       | -                                                                 | [Download](https://github.com/ExclaveNetwork/Exclave/releases)                  |
 | **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)**        | -      | -                                    | -      | ✓       | -                                                                 | [Download](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)          |
+| **[Shadowsocks Android](https://github.com/shadowsocks/shadowsocks-android)**    | -      | -                                    | -      | ✓       | -                                                                 | [Download](https://github.com/shadowsocks/shadowsocks-android/releases)         |
+| **[ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)**            | -      | ✓                                    | -      | -       | -                                                                 | [Download](https://github.com/shadowsocks/ShadowsocksX-NG/releases)            |
 | **[Surge](https://nssurge.com/)**                                                | -      | ✓                                    | -      | -       | [✓](https://apps.apple.com/ly/app/surge-5/id1442620678)           | [Buy](https://nssurge.com/)                                                    |
 | **[Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)**   | -      | [✓](https://stash.ws/macos/pricing/) | -      | -       | ✓                                                                 | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 | **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)**       | -      | ✓                                    | -      | -       | ✓                                                                 | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)            |
 | **[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)**      | -      | ✓                                    | -      | -       | ✓                                                                 | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620)           |
 | **[V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)**       | -      | ✓                                    | -      | -       | ✓                                                                 | [App Store](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)     |
 | **[Loon](https://apps.apple.com/us/app/loon/id1373567447)**                      | -      | -                                    | -      | -       | ✓                                                                 | [App Store](https://apps.apple.com/us/app/loon/id1373567447)                   |
+| **[Egern](https://apps.apple.com/us/app/egern/id1616105820)**                    | -      | -                                    | -      | -       | [✓](https://apps.apple.com/us/app/egern/id1616105820)             | [App Store](https://apps.apple.com/us/app/egern/id1616105820)                  |
+| **[Streisand](https://apps.apple.com/us/app/streisand/id6450534064)**            | -      | -                                    | -      | -       | [✓](https://apps.apple.com/us/app/streisand/id6450534064)         | [App Store](https://apps.apple.com/us/app/streisand/id6450534064)              |
 | **[Potatso Lite](https://apps.apple.com/us/app/potatso/id1239860606)**           | -      | -                                    | -      | -       | ✓                                                                 | [App Store](https://apps.apple.com/us/app/potatso/id1239860606)                |
 
 ### 旧时代 / 备份 (Legacy/Backup)
@@ -45,12 +52,16 @@
 |:---------------------------------------------------------------------------- |:---:|:---:|:-----:|:-------:|:---:|:-------:|:---------:|:---------------------------------------------------------------------------------- |
 | **[Clash for Windows](https://github.com/lantongxue/clash_for_windows_pkg)** | ✓   | ✓   | ✓     | -       | -   | -       | -         | [Backup](https://github.com/lantongxue/clash_for_windows_pkg/releases/tag/0.20.39) |
 | **[Clash N](https://github.com/2dust/clashN)**                               | ✓   | -   | -     | -       | -   | -       | -         | [Download](https://github.com/2dust/clashN/releases)                               |
+| **[Shadowsocks-Windows](https://github.com/shadowsocks/shadowsocks-windows)** | ✓   | -   | -     | -       | -   | -       | -         | [Download](https://github.com/shadowsocks/shadowsocks-windows/releases)            |
 | **[ClashX](https://github.com/bannedbook/ClashX)**                           | -   | ✓   | -     | -       | -   | -       | -         | [Archived](https://github.com/bannedbook/ClashX/releases/tag/1.118.0)              |
 | **[ClashForAndroid](https://github.com/BackupTime/ClashForAndroid)**         | -   | -   | -     | ✓       | -   | -       | -         | [Backup](https://github.com/BackupTime/ClashForAndroid/releases/tag/v2.5.12)       |
 | **[SagerNet](https://github.com/SagerNet/SagerNet)**                         | -   | -   | -     | ✓       | -   | -       | -         | [Archived](https://github.com/SagerNet/SagerNet/releases/tag/0.8.1-rc03)           |
 | **[ClashMeta for HarmonyOS](https://github.com/likuai2010/ClashMeta)**       | -   | -   | -     | -       | -   | ✓       | -         | [Download](https://github.com/likuai2010/ClashMeta/releases/tag/1.5.6)             |
 | **[yacd](https://github.com/haishanh/yacd)**                                 | -   | -   | -     | -       | -   | -       | ✓         | [Download](https://github.com/haishanh/yacd/releases/tag/v0.3.8)                   |
 | **[Yacd-meta](https://github.com/MetaCubeX/Yacd-meta)**                      | -   | -   | -     | -       | -   | -       | ✓         | [Download](https://github.com/MetaCubeX/Yacd-meta/releases)                        |
+| **[daed](https://github.com/daeuniverse/daed)**                              | -   | -   | -     | -       | -   | -       | ✓         | [Archived](https://github.com/daeuniverse/daed/releases/tag/v2.1.1)                |
+
+> Shadowsocks-Windows 最后正式版为 2022-02；daed 官方仓库于 2026-09 归档，社区 OpenWrt 包仍在集成。
 
 ---
 
@@ -98,9 +109,15 @@
 
 * **[OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)**
 
-* **[dae](https://github.com/daeuniverse/dae)** - 基于 eBPF 的高性能透明代理
+* **[dae](https://github.com/daeuniverse/dae)** - 基于 eBPF 的高性能透明代理内核，主战场是软路由 / Linux 服务器
 
-* **[vClash](https://github.com/vxiaov/vClash)** - 梅林/官方改版固件插件
+* **[luci-app-daed](https://github.com/QiuSimons/luci-app-daed)** - daed 的 OpenWrt LuCI 管理界面
+
+* **[openwrt-daede](https://github.com/kenzok8/openwrt-daede)** - dae + daed + luci-app-daede 一体包，支持热切换内核
+
+* **[daeuniverse/openwrt-packages](https://github.com/daeuniverse/openwrt-packages)** - dae / honk 官方 OpenWrt 软件源（含 luci-app-dae、luci-app-honk）
+
+* **[vClash](https://github.com/vxiaov/vClash)** - 梅林/官方改版固件插件（最后更新 2025-10）
 
 ## Dashboard / 控制面板
 
@@ -112,9 +129,14 @@
 
 - **[v2rayA](https://github.com/v2rayA/v2rayA)**
 
+- **[doona](https://github.com/Zakkaus/doona)** - honk 的 Web UI（官方规划后续支持 dae）
+
 ## 相关工具与项目 (Related Projects)
 
 * **[mihomo](https://github.com/MetaCubeX/mihomo)** - 核心组件，新一代 Clash 核心
+* **[honk](https://github.com/daeuniverse/honk)** - dae 团队的新实验性 eBPF 引擎（Rust，early alpha）
+* **[dae-wing](https://github.com/daeuniverse/dae-wing)** - daed 的 GraphQL 后端，已归档，仅供开发者参考
+* **[shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)** - Shadowsocks 官方 Rust 核心 / CLI
 * **[Sub-Store](https://github.com/sub-store-org/Sub-Store)** - 高级订阅管理工具，支持全格式订阅动态转换、去重与规则注入
 * **[warp](https://github.com/fscarmen/warp)** - 功能全面的 Cloudflare WARP 一键脚本
 * **[ClashForge](https://github.com/fish2018/ClashForge)** - 节点采集与订阅生成 (Docker/WebUI）
