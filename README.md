@@ -71,8 +71,8 @@
 * **[ClashBox](https://github.com/xiaobaigroup/ClashBox)** - 适配 HarmonyOS NEXT
 * **[Auto Installer](https://github.com/likuai2010/auto-installer)** - 鸿蒙调试工具
 * **[TunBox](https://github.com/xiaoli8571/TunBox)** - 基于 mihomo 内核的鸿蒙原生客户端，支持 AppGallery 分发与自签名 HAP 安装
-* **[NekoBox for Harmony](https://github.com/xiaoli8571/NekoBox4Harmony)** - 基于 sing-box 内核的鸿蒙 VPN 客户端（未签名 HAP，需自行构建并签名）
-* **[Karing Harmony](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap)** - 第三方 Karing / sing-box 鸿蒙移植（非官方，源码未公开），支持订阅与多协议
+* **[NekoBox for Harmony](https://github.com/xiaoli8571/NekoBox4Harmony)** - 基于 sing-box 内核的鸿蒙 VPN 客户端（未签名 HAP，需自行签名安装）
+* **[Karing Harmony](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap)** - 第三方 Karing / sing-box 鸿蒙 HAP（非官方，源码未公开，功能未完全对齐上游）
 * **[Hey](https://github.com/popsiclelmlm/Hey)** - 基于 Xray（主）与 sing-box 内核的鸿蒙原生客户端
 * **[Bettbox](https://github.com/htoay/Bettbox)** - 第三方 Bettbox 鸿蒙移植版
 * **[FlClash](https://github.com/tljk/FlClash-ohos)** - 第三方 FlClash 鸿蒙移植版，基于 ClashMeta 内核
