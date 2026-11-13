@@ -59,6 +59,12 @@
 - **clashmi** - 应用市场搜索
 * **[ClashBox](https://github.com/xiaobaigroup/ClashBox)** - 适配 HarmonyOS NEXT
 * **[Auto Installer](https://github.com/likuai2010/auto-installer)** - 鸿蒙调试工具
+* **[TunBox](https://github.com/xiaoli8571/TunBox)** - 鸿蒙原生代理客户端，Mihomo内核进程内嵌TUN 已正式上架，应用商店切外区下载
+* **[NekoBox for Harmony](https://github.com/xiaoli8571/NekoBox4Harmony)** - 基于sing-box内核的鸿蒙VPN客户端
+* **[Karing Harmony](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap)** - 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议
+* **[Hey](https://github.com/popsiclelmlm/Hey)** - 基于Xray/sing-box内核的鸿蒙原生代理客户端
+* **[Bettbox](https://github.com/htoay/Bettbox)** - Bettbox鸿蒙移植版
+* **[FlClash](https://github.com/tljk/FlClash-ohos)** - FlClash鸿蒙移植版 基于ClashMeta的多平台代理客户端
 
 ## TV / 电视端 (Apple TV & Android TV)
 
